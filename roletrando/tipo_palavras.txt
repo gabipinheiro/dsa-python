@@ -1,0 +1,6 @@
+fruta(banana,melancia,manga,goiaba,carambola,jaboticaba,morango,uva)
+be(tinkwink,shrolinhos,neco,seiva,nequinho,centrum)
+flor(margarida,tulipa,girassol,rosa)
+animal(cachorro,gato,jabuti,tartaruga,sapo,rato,rinoceronte,gorila,elefante)
+roupa(casaco,pijama,jardineira,chinelo,macaquinho)
+padaria(croassint,biscoito,torrada,madelaine,manteiga,margarina,queijo)
